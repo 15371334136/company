@@ -7,6 +7,9 @@
   text-align:center;
   line-height:normal;
 }
+.image {
+  color:#000000;
+}
 .box_1 {
 }
 .box_2 {
@@ -15,7 +18,7 @@
 }
 .ellipse {
 }
-.image {
+.image1 {
 }
 .primary_button {
   color:#FFFFFF;
@@ -84,4 +87,26 @@
   line-height:normal;
 }
 .flow_shape {
+}
+._图片 {
+  color:#000000;
+}
+.checkbox {
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+._图片1 {
+  color:#000000;
+}
+.icon {
+}
+.placeholder {
+}
+.radio_button {
+  text-align:left;
+}
+.placeholder1 {
 }
