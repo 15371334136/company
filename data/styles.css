@@ -75,6 +75,10 @@
 }
 .line {
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .table_cell {
 }
 ._连接线 {
@@ -109,4 +113,15 @@
   text-align:left;
 }
 .placeholder1 {
+}
+._形状 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+._水平线 {
 }
